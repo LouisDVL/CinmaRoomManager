@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Area of parallelogram" />
+            <option value="$PROJECT_DIR$/Topics/Calling a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Select all correct comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The forgotten comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/What comments are not used in the program" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Chocolate" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Division" />
+            <option value="$PROJECT_DIR$/Topics/Declaring a method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Applications of Java" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Hello" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Introduction to Java/WORA" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Maximum element in a matrix" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Rotate a rectangle array" />
+            <option value="$PROJECT_DIR$/Topics/Multidimensional array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Stars" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the given numbers are different" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the sum" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Possible values of a variable" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Hiring a chef" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Print strings in the reverse order" />
+            <option value="$PROJECT_DIR$/Topics/Scanning the input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
+            <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Topics/String/Operations with strings" />
+            <option value="$PROJECT_DIR$/Topics/String/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Direction" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Grades" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Such different for loops" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/The count of numbers divisible by N" />
+            <option value="$PROJECT_DIR$/Topics/The for-loop/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Statements" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The length of the sequence" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
